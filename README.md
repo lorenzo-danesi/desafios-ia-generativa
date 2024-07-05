@@ -15,5 +15,4 @@ Bem-vindo ao repositório de desafios para o Bootcamp Santander 2024 - Fundament
 
 ## Curso: Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
 
-Além dos desafios, este repositório também armazena o conteúdo introdutório presete no curso "Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional". Esse conteúdo foi desenvolvido em Java para fortalecer as habilidades de resolução de problemas e pensamento algorítmico em diferentes linguagens.
-
+Além dos desafios, este repositório também armazena o conteúdo introdutório presete no curso "Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional". Esse conteúdo foi desenvolvido em Java para fortalecer as habilidades de resolução de problemas e pensamento computacional em diferentes linguagens.
